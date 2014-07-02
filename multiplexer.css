@@ -1,0 +1,9 @@
+.multiplexer_button {
+	border: dotted 1px;
+	padding: 0px;
+	width: 20px;
+	height: 20px;
+	margin: 10px;
+	text-align: center;
+	cursor: pointer;
+}
